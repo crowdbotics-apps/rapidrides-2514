@@ -1,0 +1,3 @@
+rootProject.name = 'rapidrides_2514'
+
+include ':app'
